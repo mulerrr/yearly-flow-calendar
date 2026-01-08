@@ -1,0 +1,5 @@
+{
+  "name": "Yearly Flow Calendar",
+  "description": "A high-density year-view calendar inspired by HEY, featuring a continuous 25-column grid layout with month markers and multi-day event spans.",
+  "requestFramePermissions": []
+}
